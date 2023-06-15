@@ -122,7 +122,7 @@ import fs from 'fs'
     }
 }
 
-let productos = new ProductManager("./data.txt")
+/*let productos = new ProductManager
 
 let producto1 = new ProductModel('producto de prueba', 'este es un producto', 200, 'Sin Imagen1', "abc123", 25)
 
@@ -150,4 +150,4 @@ productos.getProductById(9)
 
 productos.updateProducts(1, "stock", 555)
 
-productos.deleteProduct(3)
+productos.deleteProduct(3)*/
